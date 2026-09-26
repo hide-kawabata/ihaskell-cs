@@ -1,0 +1,13 @@
+{
+  "name": "IHaskell Codespaces",
+  "image": "ghcr.io/ihaskell/ihaskell-notebook:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "haskell.haskell"
+      ]
+    }
+  },
+  "remoteUser": "jovyan"
+}
