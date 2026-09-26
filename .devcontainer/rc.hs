@@ -1,3 +1,3 @@
-:options no-lint
+:option no-lint
 :extension EmptyDataDecls
 :extension OverloadedStrings
