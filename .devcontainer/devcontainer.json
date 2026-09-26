@@ -8,5 +8,6 @@
         "haskell.haskell"
       ]
     }
-  }
+  },
+  "postCreateCommand": "mkdir -p ~/.ihaskell && ln -sf $(pwd)/.devcontainer/rc.hs ~/.ihaskell/rc.hs"
 }
