@@ -1,6 +1,6 @@
 {
   "name": "IHaskell Codespaces",
-  "image": "ghcr.io/ihaskell/ihaskell-notebook:latest",
+  "image": "ghcr.io/ihaskell/ihaskell-notebook:master",
   "customizations": {
     "vscode": {
       "extensions": [
